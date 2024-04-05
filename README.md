@@ -68,7 +68,7 @@ plt.show()
 ![image](https://github.com/KameshLeVI/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120780633/0066a264-2d3f-423a-84a9-5f4e7d64ed7f)
 
 #### R2 value:
-![image](https://github.com/KameshLeVI/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120780633/c2cad45d-2a94-4fec-9716-0118cf4f401d)
+![image](https://github.com/KameshLeVI/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120780633/c28e1e18-9b03-4374-b10e-8ade7ee5f771)
 
 #### Predicted value:
 ![image](https://github.com/KameshLeVI/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120780633/1bf0e409-0eb3-49d1-ac0a-1436acec357c)
